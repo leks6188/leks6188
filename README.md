@@ -20,7 +20,7 @@
 ---
 ##Data_Base course
 
-[![DB](DB_for_Python.png)](certificates/certificate(4).pdf)
+[![DB](certificates/Data_Bases.png)](certificates/certificate(4).pdf)
 
 ---
 ##Django course
