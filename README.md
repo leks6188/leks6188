@@ -52,4 +52,4 @@
 ---
 ## Telegram Bot
 
-[![TgBot](certificates/TgBot.png)](certificates/certificate(7).pdf)
+[![TgBot](сertificates/TgBot.png)](certificates/certificate(7).pdf)
