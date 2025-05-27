@@ -57,4 +57,4 @@
 ---
 ## Python developer
 
-[![Python_developer](certificates/Python developer.png)](certificates/certificate_8.pdf)
+[![Python_developer](certificates/Python_developer.png)](certificates/certificate_8.pdf)
