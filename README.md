@@ -58,3 +58,14 @@
 ## Python developer
 
 [![Python_developer](certificates/Python_developer.png)](certificates/certificate_8.pdf)
+
+---
+## Python in web development
+
+[![Python_in_web_development](certificates/web_python.png)](certificates/certificate_9.pdf)
+
+
+
+
+
+
