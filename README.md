@@ -1,35 +1,77 @@
 # Алексей Петров | Python-разработчик
 
-[![Resume PDF](https://img.shields.io/badge/📄_Скачать_Резюме_PDF-2ea44f?style=for-the-badge)](https://github.com/leks6188/leks6188/raw/main/Alexey_Petrov_Python_Developer_CV.pdf)
-`🔧 20 лет в авторемонте` → `🐍 Python-разработчик`
+📱 **Telegram:** [@kepasa19](https://t.me/kepasa19)  
+📧 **Email:** leks6188@mail.ru  
+💻 **GitHub:** [leks6188](https://github.com/leks6188)  
+📄 **Резюме:** [Скачать PDF](https://github.com/leks6188/leks6188/raw/main/Alexey_Petrov_Python_Developer_CV.pdf)
 
 ---
 
 ## 👋 Обо мне
 
-Мой путь из авторемонта в IT — это не смена профессии, а закономерное развитие инженерного мышления. Где раньше я диагностировал сложные электронные системы автомобилей, сегодня анализирую и оптимизирую код. 
+Технический руководитель с многолетним опытом в авторемонте, завершивший переквалификацию в **Python-разработчика** через интенсивные курсы Нетологии ("Python-разработчик" и "Python в Web-разработке").
 
-Ценю там, где ценят:
+Мой путь из авторемонта в IT — это не смена профессии, а закономерное развитие инженерного мышления. Где раньше я диагностировал сложные электронные системы автомобилей, сегодня анализирую и оптимизирую код. Мой переход из hardware в software — это естественное развитие инженерного мышления: от диагностики сложных электронных систем автомобилей к созданию эффективного и логичного кода.
+
+**Ценю там, где ценят:**
 • **Глубину понимания** — не просто пишу код, а вижу архитектуру и взаимосвязи
-• **Декомпозицию задач** — умею разбивать сложные проблемы на решаемые этапы  
+• **Декомпозицию задач** — умею разбивать сложные проблемы на решаемые этапы
 • **Металлическое терпение** в отладке и поиске оптимальных решений
 • **Скорость обучения** — осваиваю новое со скоростью `git push`
 
+---
+
+### 💡 Что я ценю и что могу предложить
+
+**Мои сильные стороны:**
+✅ **Ответственность и педантичность** — довожу задачи до идеального состояния  
+✅ **Глубокое понимание процессов** — мне важно видеть не просто "как", но и "почему" это работает  
+✅ **Аналитический склад ума** — умение разбирать сложные проблемы на составляющие  
+✅ **Нестандартные решения** — многолетний опыт решения неординарных технических задач
+
+**Чем могу быть полезен команде:**
+• Альтернативным взглядом на задачи (опыт из другой индустрии)  
+• Помощью в поиске решений и отладке  
+• Ответственным подходом к работе  
+• Желанием разбираться в архитектуре и механике работы систем
+
+---
+
+### 🎯 Карьерные цели
+
+Ищу **стартовую позицию в IT** (стажировка, junior Python-разработчик) с перспективой роста. В первую очередь рассматриваю backend-разработку на **Python/Django/FastAPI**, но открыт к интересным предложениям в смежных направлениях.
+
 **Ищу первую позицию** (стажировка/junior) в команде, где смогу приносить пользу и расти как специалист.
 
+---
+
+### 🤝 Что ищу в комьюнити
+
 **Вне кода:** Стратегическое мышление (шахматы ♟️) + выносливость (походы 🏔️)
+
+Мне было бы ценно получить:
+• **Поддержку** и советы на основе личного опыта  
+• **Информационные ресурсы** и образовательные материалы  
+• **Общение** и совместное движение вперёд  
+• **Обратную связь** по моим проектам и коду
 
 📩 **Готов к тестовым заданиям!**
 
 ---
 
+### 🎲 Интересный факт
+
+"Движение вперёд — мой главный двигатель! Любимая игра с детства — Конструктор. Собираю сложные системы из отдельных компонентов — это про меня как в жизни, так и в коде."
+
+---
+
 ## 🛠️ Технологический стек
 
-**Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/DRF-red?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=flat-square)
-
-**Базы данных:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Инструменты:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+*   **Язык:** Python 3
+*   **Backend Frameworks:** Django, Django REST Framework, FastAPI, Flask, AioHTTP
+*   **Базы данных:** PostgreSQL, SQLite
+*   **Инструменты:** Git, Docker, Celery
+*   **Прочее:** REST API, API Telegram Bot, ORM, Asyncio
 
 ---
 
@@ -86,16 +128,41 @@
 
 ---
 
-## 🏆 Мои сертификаты
+## 🏆 Сертификаты
 
-| Курс | Сертификат |
-| :--- | :--- |
-| **Python-разработчик** | [![Нетология](https://img.shields.io/badge/Смотреть-сертификат-blue?style=flat-square)](https://github.com/leks6188/leks6188/raw/main/certificates/certificate_8.pdf) |
-| **Python в веб-разработке** | [![Нетология](https://img.shields.io/badge/Смотреть-сертификат-blue?style=flat-square)](https://github.com/leks6188/leks6188/raw/main/certificates/certificate_9.pdf) |
-| **Django** | [![Нетология](https://img.shields.io/badge/Смотреть-сертификат-blue?style=flat-square)](https://github.com/leks6188/leks6188/raw/main/certificates/certificate(5).pdf) |
-| **Базы данных** | [![Нетология](https://img.shields.io/badge/Смотреть-сертификат-blue?style=flat-square)](https://github.com/leks6188/leks6188/raw/main/certificates/certificate(4).pdf) |
+<div align="center">
 
-*[Посмотреть все сертификаты](https://github.com/leks6188/leks6188/tree/main/certificates)*
+[![Python Developer](https://img.shields.io/badge/СЕРТИФИКАТЫ-ПОСМОТРЕТЬ_ВСЕ-2ea44f?style=for-the-badge&logo=github)](https://github.com/leks6188/leks6188/tree/main/certificates)
+
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate_8.pdf">
+  <img src="certificates/Python_developer.png" width="100" height="70" alt="Python Developer">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate_9.pdf">
+  <img src="certificates/web_python.png" width="100" height="70" alt="Web Python">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(5).pdf">
+  <img src="certificates/Django.png" width="100" height="70" alt="Django">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(4).pdf">
+  <img src="certificates/Data_Bases.png" width="100" height="70" alt="Databases">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(3).pdf">
+  <img src="certificates/OOP_API.png" width="100" height="70" alt="OOP">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(2).pdf">
+  <img src="certificates/GIT.png" width="100" height="70" alt="Git">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(1).pdf">
+  <img src="certificates/Python_Base.png" width="100" height="70" alt="Python Base">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate(6).pdf">
+  <img src="certificates/Stepik.png" width="100" height="70" alt="Stepik">
+</a>
+<a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate_7.pdf">
+  <img src="certificates/Tg_Bot.png" width="100" height="70" alt="Telegram Bot">
+</a>
+
+</div>
 
 ---
 
