@@ -5,7 +5,7 @@
 💻 **GitHub:** [leks6188](https://github.com/leks6188)  
 📄 **Резюме:** [Скачать PDF](https://github.com/leks6188/leks6188/raw/main/Alexey_Petrov_Python_Developer_CV.pdf)
 
----
+`---
 
 ## 👋 Обо мне
 
@@ -78,7 +78,7 @@
 ## 📂 Мои проекты
 
 ### 🏆 Дипломный проект: Социальная сеть на Django
-[![GitHub](https://img.shields.io/badge/Код-репозитория-black?style=for-the-badge&logo=github)](https://github.com/leks6188/Diplom_Work)
+[🌐 **Код репозитория**](https://github.com/leks6188/Diplom_Work)
 
 **Полноценный аналог социальной сети с основными функциями:**
 - ✅ Система аутентификации и авторизации
@@ -92,7 +92,7 @@
 ---
 
 ### ⚡ FastAPI: Сервис объявлений
-[![GitHub](https://img.shields.io/badge/Код-репозитория-black?style=for-the-badge&logo=github)](https://github.com/leks6188/FastAPI_homework)
+[🌐 **Код репозитория**](https://github.com/leks6188/FastAPI_homework)
 
 **Современный backend на FastAPI с полным циклом CRUD:**
 - ✅ Создание, чтение, обновление, удаление объявлений
@@ -105,7 +105,7 @@
 ---
 
 ### 🚀 Асинхронное API на AioHTTP
-[![GitHub](https://img.shields.io/badge/Код-репозитория-black?style=for-the-badge&logo=github)](https://github.com/leks6188/Aiohttp)
+[🌐 **Код репозитория**](https://github.com/leks6188/Aiohttp)
 
 **Высокопроизводительное асинхронное API:**
 - ✅ Асинхронная обработка запросов
@@ -117,7 +117,7 @@
 ---
 
 ### 🤖 Telegram-боты
-[![GitHub](https://img.shields.io/badge/Код-репозитория-black?style=for-the-badge&logo=github)](https://github.com/leks6188/Tg_Bot)
+[🌐 **Код репозитория**](https://github.com/leks6188/Telegramm_Bot)
 
 **Разработка Telegram-ботов различной сложности:**
 - ✅ Боты с различной функциональностью
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-[![Python Developer](https://img.shields.io/badge/СЕРТИФИКАТЫ-ПОСМОТРЕТЬ_ВСЕ-2ea44f?style=for-the-badge&logo=github)](https://github.com/leks6188/leks6188/tree/main/certificates)
+[📂 **Посмотреть все сертификаты**](https://github.com/leks6188/leks6188/tree/main/certificates)
 
 <a href="https://github.com/leks6188/leks6188/raw/main/certificates/certificate_8.pdf">
   <img src="certificates/Python_developer.png" width="100" height="70" alt="Python Developer">
@@ -168,7 +168,7 @@
 
 ## 📞 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@kepasa19-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/kepasa19)
-[![Email](https://img.shields.io/badge/Email-leks6188@mail.ru-D14836?style=for-the-badge&logo=gmail)](mailto:leks6188@mail.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-leks6188-181717?style=for-the-badge&logo=github)](https://github.com/leks6188)
-[![Resume PDF](https://img.shields.io/badge/📄_Резюме-Скачать_PDF-2ea44f?style=for-the-badge)](https://github.com/leks6188/leks6188/raw/main/Alexey_Petrov_Python_Developer_CV.pdf)
+[💬 **Telegram:** @kepasa19](https://t.me/kepasa19)  
+[📧 **Email:** leks6188@mail.ru](mailto:leks6188@mail.ru)  
+[🐙 **GitHub:** leks6188](https://github.com/leks6188)  
+[📄 **Резюме:** Скачать PDF](https://github.com/leks6188/leks6188/raw/main/Alexey_Petrov_Python_Developer_CV.pdf)
